@@ -1,0 +1,8 @@
+@import '../node_modules/bulma/sass/utilities/initial-variables';
+@import '../node_modules/bulma/sass/utilities/functions';
+
+
+// setup custom colors
+$purple: hsl(275, 87%, 45%);
+@import '../node_modules/bulma/bulma';
+// @import 'bulma-extensions/extensions';
